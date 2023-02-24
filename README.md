@@ -60,3 +60,8 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ## Get to Know the Author
 **Hamida Rebai Trabelsi**
 She has been working in the computing domain for over 12 years. She started her professional career in Tunisia working for MNCs as a software developer, then served as a .NET consultant at CGI, Canada and currently she is a Senior Advisor, Information and Solution Integration Architect at Revenu Québec, Canada. She has been awarded with Most Valuable Professional in Developer Technologies and Microsoft DevHeros by Microsoft and holds several Azure certifications. Besides being a Microsoft Certified Trainer and a member of dotnetfoundation, Hamida is a blogger, an international speaker, and one of the finalists in the Women in IT Award Canada 2019.
+
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781804611715">https://packt.link/free-ebook/9781804611715 </a> </p>
