@@ -68,7 +68,7 @@ public static class PriceCalculationFunction
         // Further processing for invoice generation and notification...
         log.LogInformation($"Total price for Order {order.OrderId}: {totalPrice}");
     }
-}
+    }
 
 In this code, the function is triggered by messages in a specific Service Bus topic subscription, retrieves product prices from an Azure Storage Table, and calculates the total order price.
 
